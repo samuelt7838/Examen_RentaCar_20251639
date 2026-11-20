@@ -41,3 +41,7 @@ En esta sección se agregarán las capturas de pantalla de los casos de prueba r
 
 Samuel Trinidad Fernandez  
 Matrícula: 2025-1639
+<img width="1917" height="997" alt="Captura de pantalla 2026-11-19 215253" src="https://github.com/user-attachments/assets/2bb88aa3-fbd4-4ffe-bdef-457a9dbc91b1" />
+<img width="1882" height="955" alt="Captura de pantalla 2026-11-19 220358" src="https://github.com/user-attachments/assets/7f2ce50d-36ef-43b0-b792-c30d72ac6a52" />
+<img width="1911" height="1015" alt="Captura de pantalla 2026-11-19 222007" src="https://github.com/user-attachments/assets/2c55a1ac-69e9-4979-a5bd-69f4bae4f502" />
+
